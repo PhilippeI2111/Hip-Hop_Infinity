@@ -1,0 +1,177 @@
+.menu {
+  background: rgb(209,182,73);
+  background: linear-gradient(90deg, rgba(209,182,73,1) 0%, rgba(198,96,52,0.9752275910364145) 50%, rgba(158,84,108,0.9220063025210083) 100%);
+}
+#footer-content {
+  background-color: rgb(247, 174, 16);
+}
+
+.image1 {
+  height: 250px;
+}
+#footer-content{
+  position:fixed;
+  bottom:0;
+  }
+  body {
+   
+    background: rgb(49, 41, 41);
+   ;
+
+  }
+.nav-link {
+  background: rgb(252, 252, 252);
+}
+
+body {
+  color: rgb(243, 243, 245);
+}
+
+h1 {
+  color: rgb(255, 209, 150);
+  font-family: garamond;
+  font-size: 300%;
+}
+
+h2 {
+  color: rgb(255, 209, 150);
+  font-family: garamond;
+  font-size: 300%;
+
+}
+
+img {
+ width: 35%; 
+ max-height: 75%; 
+display: -webkit-box;
+
+margin-left: auto;
+
+}
+
+.Collage {
+  width: 1500px; 
+  position: relative;
+ left: 300px;
+
+}
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+
+.Thisis {
+  width: 2000px; 
+  position: relative;
+ right: 500px;
+  
+}
+
+.Goat {
+  width: 2000px; 
+  position: relative;
+ right: 100px;
+  
+}
+
+.toag {
+  width: 1500px; 
+  position: relative;
+ right: 800px;
+  
+}
+
+.iframe {
+  width: 1000px; 
+  position: relative;
+ left: 140px;
+  
+}
+
+.tpab {
+  width: 1500px; 
+  position: relative;
+ left: 400px;
+  
+}
+
+.bars {
+  width: 1500px; 
+  position: relative;
+ right: 925px;
+  
+}
+
+.cole {
+  width: 1500px; 
+  position: relative;
+ left: 400px;
+  
+}
+
+.forever {
+  width: 1500px; 
+  position: relative;
+ right: 300px;
+  
+}
+
+.footer {
+  height: 150px;
+  
+}
+
+.lien {
+
+  width: 600px; 
+  position: relative;
+ left: 52px;
+
+ 
+  
+}
+
+
